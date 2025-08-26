@@ -1,0 +1,4 @@
+body { background: #f8fafc; }
+.hero-card { border-left: 6px solid #0d6efd; }
+.stat-card { border-bottom: 4px solid #0d6efd22; }
+.table td, .table th { vertical-align: middle; }
